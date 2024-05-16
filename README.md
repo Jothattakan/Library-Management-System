@@ -8,18 +8,17 @@ With this system, librarians can easily keep track of book inventory, manage cus
 ## *Book Management:* 
 Easily add, update, and remove books from the library inventory, including details such as title, author, category, rental price, and availability status.
 
-*Customer Management:* 
+## *Customer Management:* 
 Register new customers, maintain customer records, and manage customer transactions such as book issuances and returns.
 
-*Employee Management:* 
+## *Employee Management:* 
 Keep track of library staff, including their roles, salaries, and branch assignments.
 
-*Branch Management:* 
+## *Branch Management:* 
 Manage information about library branches, including branch addresses, contact details, and branch managers.
 
-*Transaction Tracking:* 
+## *Transaction Tracking:* 
 Track book issuances and returns, along with relevant details such as issue dates, return dates, and associated customers.
 
-*Reporting and Analytics:*
-Generate reports on various aspects of library operations, such as book inventory, customer activities, and branch performance.
-Our Library Management System is designed to streamline library operations, enhance user experience, and ensure efficient management of library resources. Whether you're a librarian managing the day-to-day operations or a customer looking for your next favorite book, our system is here to make your library experience smooth and enjoyable.
+## *Reporting and Analytics:*
+Generate reports on various aspects of library operations, such as book inventory, customer activities, and branch performance. This Library Management System is designed to streamline library operations, enhance user experience, and ensure efficient management of library resources. using this management system, librarian can manage the day-to-day operations, a customer looking for a next favorite book, This system is here to make the library operation experience smooth and enjoyable.
