@@ -3,7 +3,7 @@
 The Library management system is designed to efficiently manage the operations of a library, facilitating seamless interactions between librarians, customers, and books.
 With this system, librarians can easily keep track of book inventory, manage customer registrations, handle book issuances and returns, and monitor library branches' activities. Customers can explore available books, borrow them, and return them hassle-free.
 
-# **Key features of our Library Management System include:**
+# **Key features of Library Management System include:**
 
 ## *Book Management:* 
 Easily add, update, and remove books from the library inventory, including details such as title, author, category, rental price, and availability status.
